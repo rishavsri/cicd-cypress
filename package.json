@@ -1,0 +1,22 @@
+{
+  "name": "cicd-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishavsri/cicd-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishavsri/cicd-cypress/issues"
+  },
+  "homepage": "https://github.com/rishavsri/cicd-cypress#readme",
+  "dependencies": {
+    "cypress": "^14.4.1"
+  }
+}
